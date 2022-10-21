@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Calculator with Create React App
 
 ## [Demo](https://tanatana0402.github.io/)
 
