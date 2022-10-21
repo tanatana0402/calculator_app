@@ -10,11 +10,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-node_modules 미첨부
 
 ### ☆`npm install` or `npm install --save --legacy-peer-deps`
 
-Install npm
+node_modules 미첨부 npm install 후 npm start
 
 ### `npm start`
 
