@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 node_modules 미첨부
 
-### `npm install` or `npm install --save --legacy-peer-deps`
+### ☆`npm install` or `npm install --save --legacy-peer-deps`
 
 Install npm
 
